@@ -56,4 +56,4 @@ function checkAnswer(input) {
     return { strike, ball };
 }
 
-console.log("정답:", answer); 
+console.log("정답:", answer); // 디버깅용
